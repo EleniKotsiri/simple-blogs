@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Test",
+      "body": "This is a test !!",
+      "tags": [
+        "test",
+        "debug"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Better performance for your website",
+      "body": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "tags": [
+        "website",
+        "code",
+        "vue"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Another test",
+      "body": "This is another test to practice router using the composition API",
+      "tags": [
+        "router",
+        "vuejs",
+        "compositionAPI"
+      ],
+      "id": 6
+    }
+  ]
+}
